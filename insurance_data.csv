@@ -1,0 +1,11 @@
+﻿Policy_ID,Customer_Name,Policy_Start_Date,Premium_Amount,Claim_Status,Region,Last_Updated,Policy_ID,Customer_Name,Policy_Start_Date,Premium_Amount,Claim_Status
+POL1001,John Doe,15/01/2023,1200.5,Paid,London,15/01/2023 10:00,POL1001,John Doe,15/01/2023,1200.5,Paid
+POL1002,  sarah smith ,15/02/2023,1500,Pending,Manchester,15/02/2023 11:00,POL1002,  sarah smith ,15/02/2023,1500,Pending
+POL1003,Mike Brown,10/03/2023,null,Paid,Birmingam,10/03/2023 09:00,POL1003,Mike Brown,10/03/2023,null,Paid
+POL1001,John Doe,15/01/2023,1200.5,Paid,London,01/01/2024 12:00,POL1001,John Doe,15/01/2023,1200.5,Paid
+POL1004,Emily Davis,05/04/2023,2500,Rejected,LONDON,05/04/2023 14:00,POL1004,Emily Davis,05/04/2023,2500,Rejected
+POL1005,kevin white,12/05/2023,500.75,,Glasgow,12/05/2023 10:00,POL1005,kevin white,12/05/2023,500.75,
+POL1006,  AMY JONES,01/06/2023,3000,Paid,manchester,01/06/2023 08:30,POL1006,  AMY JONES,01/06/2023,3000,Paid
+POL1007,Robert Wilson,20/07/2023,99999,Pending,London,20/07/2023 16:00,POL1007,Robert Wilson,20/07/2023,99999,Pending
+POL1002,sarah smith,15/02/2023,1500,Paid,Manchester,01/12/2023 10:00,POL1002,sarah smith,15/02/2023,1500,Paid
+POL1008,Linda Taylor,null,1100.2,Paid,Birmingam,15/08/2023 11:00,POL1008,Linda Taylor,null,1100.2,Paid
